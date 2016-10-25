@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">微信红包王</string>
+    <string name="awwt">微信抢红包插件  开发者：阿杰 QQ:2088747810</string>
+    <string name="open">去开启微信红包王服务</string>
+    <string name="runing">抢红包中...</string>
+    <string name="app_title">微信红包王</string>
+
+</resources>
